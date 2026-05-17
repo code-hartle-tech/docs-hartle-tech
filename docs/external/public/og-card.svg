@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060912"/>
+      <stop offset="1" stop-color="#0d1f2a"/>
+    </linearGradient>
+    <linearGradient id="h" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00e5ff"/>
+      <stop offset="1" stop-color="#6e7d9a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="60" y="320" font-family="system-ui,sans-serif" font-size="120" font-weight="800" fill="url(#h)">HARTLE.TECH</text>
+  <text x="60" y="400" font-family="system-ui,sans-serif" font-size="48" fill="#d9e7ff" opacity="0.85">Engineering docs</text>
+  <text x="60" y="560" font-family="system-ui,sans-serif" font-size="28" fill="#6b7e9c">docs.hartle.tech</text>
+</svg>
